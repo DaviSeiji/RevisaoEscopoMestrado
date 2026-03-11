@@ -1,0 +1,1204 @@
+Título,RQ,Categoria
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ1,Data Centers
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ2,Manutenção Prescritiva / Preditiva
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ2,RUL/Prognóstico
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ3,Diagnóstico/Causa-raiz
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ3,HITL/Confiança/Uncertainty
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ4,"Público, Backblaze dataset"
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ5,Séries temporais (sensores/telemetria)
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ6,Não mencionado
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ7,RNN (LSTM/GRU)
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ8,SHAP
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ8,LIME
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ9,Ambos
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ10,Classificação
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ10,Avaliação XAI quantitativa
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ11,Interpretabilidade/XAI
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ11,Adoção humana/HITL
+A Comparative Assessment of eXplainable AI Tools in Predicting Hard Disk Drive Health⋆,RQ11,Modelagem
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ1,Alimentos/Bebidas
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ2,Detecção de Anomalias/Falhas
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ2,Controle de Qualidade (Defeitos)
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ2,Otimização / Controle de Processo
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ3,Diagnóstico/Causa-raiz
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ3,HITL/Confiança/Uncertainty
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ4,Sem Dataset
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ5,Séries temporais (sensores/telemetria)
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ5,Tabular (dados estruturados/atributos/features)
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ6,Não mencionado
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ7,RNN (LSTM/GRU)
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ8,LRP
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ8,SHAP
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ8,LIME
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ9,Ambos
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ10,Classificação
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ10,Regressão
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ10,Latência/Tempo/Computação
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ10,Avaliação XAI quantitativa
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ10,Avaliação humana
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ11,Modelagem
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ11,Generalização/Transferência
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ11,Interpretabilidade/XAI
+A Conceptual Framework for Predictive Digital Dairy Twins: Integrating Explainable AI and HybridModeling,RQ11,Adoção humana/HITL
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ1,Químico/Processos
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ2,RUL/Prognóstico
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ2,Detecção de Anomalias/Falhas
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ3,Alerta/Detecção
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ3,Diagnóstico/Causa-raiz
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ3,Prognóstico (RUL/Health)
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ3,Prescrição/Recomendação
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ4,Privados/proprietários
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ5,Séries temporais (sensores/telemetria)
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ6,Não mencionado
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ7,Autoencoder/VAE
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ7,RNN (LSTM/GRU)
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ7,MLP/ANN (feedforward)
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ8,SHAP
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ9,Ambos
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ10,Regressão
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ11,Dados
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ11,Modelagem
+A machine-learning based data-oriented pipeline for Prognosis and Health Management Systems,RQ11,Generalização/Transferência
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ1,Químico/Processos
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ2,Manutenção Prescritiva / Preditiva
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ2,Detecção de Anomalias/Falhas
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ2,Diagnóstico / Causa-raiz (FDD)
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ3,Alerta/Detecção
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ3,Diagnóstico/Causa-raiz
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ4,Simulados/gerados
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ5,Séries temporais (sensores/telemetria)
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ6,Não mencionado
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ7,Não mencionado.
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ8,Causal/Granger/DAG/PC (inferência causal)
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ9,Não mencionado
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ10,Detecção de anomalias/FDD
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ10,Classificação
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ11,Modelagem
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ11,Infraestrutura & Integração
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ11,Dados
+A predictive analytics framework for early detection of production halts and quality issues.,RQ1,Manufatura (geral)
+A predictive analytics framework for early detection of production halts and quality issues.,RQ2,Detecção de Anomalias/Falhas
+A predictive analytics framework for early detection of production halts and quality issues.,RQ2,Controle de Qualidade (Defeitos)
+A predictive analytics framework for early detection of production halts and quality issues.,RQ3,Planejamento/Otimização
+A predictive analytics framework for early detection of production halts and quality issues.,RQ3,Prescrição/Recomendação
+A predictive analytics framework for early detection of production halts and quality issues.,RQ4,Privados/proprietários
+A predictive analytics framework for early detection of production halts and quality issues.,RQ5,Tabular (dados estruturados/atributos/features)
+A predictive analytics framework for early detection of production halts and quality issues.,RQ6,Não mencionado
+A predictive analytics framework for early detection of production halts and quality issues.,RQ7,MLP/ANN (feedforward)
+A predictive analytics framework for early detection of production halts and quality issues.,RQ8,SHAP
+A predictive analytics framework for early detection of production halts and quality issues.,RQ9,Globais
+A predictive analytics framework for early detection of production halts and quality issues.,RQ10,Classificação
+A predictive analytics framework for early detection of production halts and quality issues.,RQ10,Latência/Tempo/Computação
+A predictive analytics framework for early detection of production halts and quality issues.,RQ10,Avaliação XAI quantitativa
+A predictive analytics framework for early detection of production halts and quality issues.,RQ11,Implantação & Tempo real
+A predictive analytics framework for early detection of production halts and quality issues.,RQ11,Dados
+A predictive analytics framework for early detection of production halts and quality issues.,RQ11,Avaliação humana/HITL
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ1,Manufatura (geral)
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ2,Controle de Qualidade (Defeitos)
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ2,Otimização / Controle de Processo
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ3,Alerta/Detecção
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ3,Diagnóstico/Causa-raiz
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ3,Prescrição/Recomendação
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ3,Planejamento/Otimização
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ4,Privados/proprietários
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ5,Tabular (dados estruturados/atributos/features)
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ6,Cloud
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ7,RNN (LSTM/GRU)
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ8,SHAP
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ9,Locais
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ10,Classificação
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ10,Regressão
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ10,Detecção de anomalias/FDD
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ11,Dados
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ11,Generalização/Transferência
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ11,Modelagem
+A Zero-Defect Manufacturing Decision-Support System for the Decorative Surfaced Panels Industry,RQ11,Infraestrutura & Integração
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ1,Água/Saneamento
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ2,Diagnóstico / Causa-raiz (FDD)
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ2,Detecção de Anomalias/Falhas
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ3,Alerta/Detecção
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ3,Diagnóstico/Causa-raiz
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ4,"Público, Pump subset do MIMII acoustic dataset."
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ6,Não mencionado
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ7,MLP/ANN (feedforward)
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ7,RNN (LSTM/GRU)
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ7,Transformer/Attention
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ8,SHAP
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ9,Globais
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ10,Classificação
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ11,Dados
+Acoustic Fault Diagnosis of Industrial Pumps Using Interpretable Deep Learning and SHAP Analysis,RQ11,Modelagem
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ1,Manufatura (geral)
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ2,Manutenção Prescritiva / Preditiva
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ2,Detecção de Anomalias/Falhas
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ2,Diagnóstico / Causa-raiz (FDD)
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ3,Alerta/Detecção
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ3,Inspeção visual/Localização
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ4,Privados/proprietários
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ5,Séries temporais (sensores/telemetria)
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ6,Cloud
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ7,Autoencoder/VAE
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ8,SHAP
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ9,Locais
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ10,Classificação
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ10,Latência/Tempo/Computação
+Adaptable and Explainable Predictive Maintenance: Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data,RQ11,Generalização/Transferência
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ1,Semicondutores
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ2,Controle de Qualidade (Defeitos)
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ2,Detecção de Anomalias/Falhas
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ3,Diagnóstico/Causa-raiz
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ3,Prescrição/Recomendação
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ3,Planejamento/Otimização
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ4,Públicos (Benchmark UCI SECOM dataset). Link: https://archive.ics.uci.edu/dataset/179/secom.
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ5,Tabular (dados estruturados/atributos/features)
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ6,Não mencionado
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ8,LIME
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ9,Locais
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ10,Classificação
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ11,Interpretabilidade/XAI
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ11,Dados
+Advancing Manufacturing with Interpretable Machine Learning: LIME-Driven Insights from the SECOM Dataset,RQ11,Generalização/Transferência
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ1,Manufatura (geral)
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ2,Manutenção Prescritiva / Preditiva
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ2,Detecção de Anomalias/Falhas
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ2,RUL/Prognóstico
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ3,Alerta/Detecção
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ3,Diagnóstico/Causa-raiz
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ3,Prognóstico (RUL/Health)
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ3,Prescrição/Recomendação
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ3,Planejamento/Otimização
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ3,HITL/Confiança/Uncertainty
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ4,Privados/proprietários
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ5,Séries temporais (sensores/telemetria)
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ6,Federated/Distribuído
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ7,RNN (LSTM/GRU)
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ8,Não mencionado
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ9,Não mencionado
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ10,Classificação
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ10,Regressão
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ10,Latência/Tempo/Computação
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ10,Avaliação humana
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ10,Métricas operacionais
+Agentic AI in Smart Manufacturing: Enabling Human-Centric Predictive Maintenance Ecosystems,RQ11,Generalização/Transferência
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ1,Manufatura (geral)
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ2,Manutenção Prescritiva / Preditiva
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ2,Detecção de Anomalias/Falhas
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ2,RUL/Prognóstico
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ3,Alerta/Detecção
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ3,Prognóstico (RUL/Health)
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ3,Planejamento/Otimização
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ3,Diagnóstico/Causa-raiz
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ3,HITL/Confiança/Uncertainty
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ4,Público
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ4,Privados/proprietários
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ5,Séries temporais (sensores/telemetria)
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ6,Híbrido (Edge
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ6,Cloud)
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ7,RNN (LSTM/GRU)
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ8,SHAP
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ8,LIME
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ9,Ambos
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ10,Classificação
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ10,Regressão
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ10,Latência/Tempo/Computação
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ11,Dados
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ11,Infraestrutura & Integração
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ11,Implantação & Tempo real
+AI and Data Science for Predictive Maintenance in Industry 4.0,RQ11,Interpretabilidade/XAI
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ1,Manufatura (geral)
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ2,Manutenção Prescritiva / Preditiva
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ2,Detecção de Anomalias/Falhas
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ3,Alerta/Detecção
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ4,Privados/proprietários
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ5,Séries temporais (sensores/telemetria)
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ5,Tabular (dados estruturados/atributos/features)
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ5,Texto (logs/texto livre)
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ6,Cloud
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ7,RNN (LSTM/GRU)
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ8,Não mencionado
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ9,Não mencionado
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ10,Classificação
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ11,Dados
+AI-Based Predictive Maintenance for a Slitter Rewinder: a Case Study,RQ11,Infraestrutura & Integração
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ1,Papel/Celulose
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ2,Controle de Qualidade (Defeitos)
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ2,Detecção de Anomalias/Falhas
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ3,Alerta/Detecção
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ3,Inspeção visual/Localização
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ3,Diagnóstico/Causa-raiz
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ3,Prescrição/Recomendação
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ3,Planejamento/Otimização
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ4,Privados/proprietários
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ5,Imagens (visão computacional)
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ5,Séries temporais (sensores/telemetria)
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ6,Edge
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ9,Locais
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ10,Classificação
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ10,Latência/Tempo/Computação
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ11,Dados
+AI-Driven Real-Time Defect Detection for Paper Production: A Scalable Smart Manufacturing Approach,RQ11,Modelagem
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ1,Manufatura (usinagem)
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ2,Detecção de Anomalias/Falhas
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ2,Manutenção Prescritiva / Preditiva
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ3,Diagnóstico/Causa-raiz
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ4,Privados/proprietários
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ5,Séries temporais (sensores/telemetria)
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ6,Híbrido (Edge
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ6,Cloud)
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ7,Autoencoder/VAE
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ8,Atenção/Attention (pesos/heatmaps)
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ9,Globais
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ10,Classificação
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ10,Latência/Tempo/Computação
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ11,Modelagem
+An Adaptive Parallel Feature Learning and Hybrid Feature Fusion-Based Deep Learning Approach for Machining Condition Monitoring,RQ11,Generalização/Transferência
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ1,Multi-setor
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ2,Detecção de Anomalias/Falhas
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ3,Alerta/Detecção
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ3,Diagnóstico/Causa-raiz
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ4,"Público, O artigo usa SKAB, SWaT, DAMADICS e MSL. Link: https://www.kaggle.com/dsv/1693952 e https://www.google.com/search?q=http://diag.mchtr.pw.edu.pl/damadics/."
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ5,Séries temporais (sensores/telemetria)
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ6,Não mencionado
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ7,Autoencoder/VAE
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ7,Transformer/Attention
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ7,MLP/ANN (feedforward)
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ8,SHAP
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ9,Ambos
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ10,Classificação
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ10,Regressão
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ11,Dados
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ11,Modelagem
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ11,Generalização/Transferência
+An explainable unsupervised anomaly detection framework for Industrial Internet of Things,RQ11,Interpretabilidade/XAI
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ1,Manufatura (geral)
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ2,Manutenção Prescritiva / Preditiva
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ2,Detecção de Anomalias/Falhas
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ3,Alerta/Detecção
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ3,Diagnóstico/Causa-raiz
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ3,Prescrição/Recomendação
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ4,Público
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ4,"Privados/proprietários, link: www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository."
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ5,Séries temporais (sensores/telemetria)
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ6,Edge
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ7,Autoencoder/VAE
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ8,SHAP
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ9,Ambos
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ10,Regressão
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ10,Detecção de anomalias/FDD
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ11,Modelagem
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ11,Implantação & Tempo real
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ11,Dados
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ11,Generalização/Transferência
+An explainable unsupervised learning framework for scalable machine fault detection in Industry 4.0,RQ11,Privacidade/Confidencialidade/Regulação
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ1,Plásticos
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ2,Controle de Qualidade (Defeitos)
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ2,Detecção de Anomalias/Falhas
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ3,Diagnóstico/Causa-raiz
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ3,Prescrição/Recomendação
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ3,Planejamento/Otimização
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ4,Privados/proprietários
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ5,Tabular (dados estruturados/atributos/features)
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ6,Não mencionado
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ7,Não mencionado.
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ8,SHAP
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ9,Ambos
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ10,Regressão
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ11,Generalização/Transferência
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ11,Interpretabilidade/XAI
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ11,Adoção humana/HITL
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ11,Modelagem
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ1,Químico/Processos
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ2,Forecasting (Demanda / Soft Sensing)
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ2,Otimização / Controle de Processo
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ2,Diagnóstico / Causa-raiz (FDD)
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ3,Planejamento/Otimização
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ3,Diagnóstico/Causa-raiz
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ4,Privados/proprietários
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ5,Séries temporais (sensores/telemetria)
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ6,Não mencionado
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ7,MLP/ANN (feedforward)
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ7,RNN (LSTM/GRU)
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ7,Transformer/Attention
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ8,Atenção/Attention (pesos/heatmaps)
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ9,Ambos
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ10,Regressão
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ10,Latência/Tempo/Computação
+An Interpretable Light Attention–Convolution–Gate Recurrent Unit Architecture for the Highly Accurate Modeling of Actual Chemical Dynamic Processes,RQ11,Dados
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ1,Siderúrgico/Metalurgia
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ2,Manutenção Prescritiva / Preditiva
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ2,Detecção de Anomalias/Falhas
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ3,Alerta/Detecção
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ3,Diagnóstico/Causa-raiz
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ3,Planejamento/Otimização
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ3,HITL/Confiança/Uncertainty
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ4,Público
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ4,"Privados/proprietários, link: https://ti.arc.nasa.gov/c/6/."
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ5,Tabular (dados estruturados/atributos/features)
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ6,Não mencionado
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ7,Autoencoder/VAE
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ8,SHAP
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ9,Ambos
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ10,Classificação
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ11,Dados
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ11,Generalização/Transferência
+Anomaly Detection in Asset Degradation Process Using Variational Autoencoder and Explanations,RQ11,Modelagem
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ1,Alimentos/Bebidas
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ2,Controle de Qualidade (Defeitos)
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ3,Alerta/Detecção
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ3,Inspeção visual/Localização
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ4,Privados/proprietários
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ5,Imagens (visão computacional)
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ6,Cloud
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ8,LIME
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ9,Locais
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ10,Classificação
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ11,Dados
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ11,Modelagem
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ11,Generalização/Transferência
+Application of deep learning and explainable artificial intelligence (XAI) for detecting red chilli powder adulteration,RQ11,Implantação & Tempo real
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ1,Manufatura (geral)
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ2,Controle de Qualidade (Defeitos)
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ3,Inspeção visual/Localização
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ3,Alerta/Detecção
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ4,"Público, NEU-DET (aço), GC10 e conjuntos de imagens de raio-X de soldas."
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ5,Imagens (visão computacional)
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ6,Não mencionado
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ8,Não mencionado
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ9,Não mencionado
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ10,Classificação
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ11,Dados
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ11,Implantação & Tempo real
+Automated Defect Detection in Manufacturing Using Enhanced VGG16 Convolutional Neural Networks,RQ11,Interpretabilidade/XAI
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ1,Manufatura (geral)
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ2,Manutenção Prescritiva / Preditiva
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ2,Detecção de Anomalias/Falhas
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ3,Prescrição/Recomendação
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ3,Diagnóstico/Causa-raiz
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ4,Privados/proprietários
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ5,Séries temporais (sensores/telemetria)
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ6,Não mencionado
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ7,RNN (LSTM/GRU)
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ7,Autoencoder/VAE
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ8,SHAP
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ9,Locais
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ10,Classificação
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ11,Dados
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ11,Modelagem
+Automating Motor Predictive Maintenance (PdM) by real-time Explainable AI (XAI) and Deep Learning,RQ11,Generalização/Transferência
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ1,Logística/E-commerce
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ2,Robótica / Planejamento
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ3,Planejamento/Otimização
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ3,HITL/Confiança/Uncertainty
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ4,Simulados/gerados
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ5,Multimodal (fusão de modalidades)
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ6,Híbrido (Edge
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ6,Cloud)
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ7,Reinforcement Learning (DRL/RL)
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ7,GNN (Graph NN)
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ8,Contrafactual
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ9,Ambos
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ10,Robótica/Logística
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ10,Avaliação humana
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ11,Generalização/Transferência
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ11,Benchmarks/Padronização
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ11,Robótica/Logística
+Autonomous Robotic Systems in E-commerce Warehousing: A Machine-Learning Optimization Approach,RQ11,Cibersegurança
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ1,Manufatura (geral)
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ2,Controle de Qualidade (Defeitos)
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ2,Manutenção Prescritiva / Preditiva
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ3,Inspeção visual/Localização
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ3,Alerta/Detecção
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ3,HITL/Confiança/Uncertainty
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ4,"Público, link: https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product."
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ5,Imagens (visão computacional)
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ6,Cloud
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ7,Transformer/Attention
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ9,Locais
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ10,Classificação
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ10,Latência/Tempo/Computação
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ11,Implantação & Tempo real
+BearFusionNet: AMulti-Stream Attention-Based Deep Learning Framework with Explainable AI for Accurate Detection of Bearing Casting Defects,RQ11,Modelagem
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ1,Multi-setor
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ2,Manutenção Prescritiva / Preditiva
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ2,RUL/Prognóstico
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ2,Detecção de Anomalias/Falhas
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ3,Prognóstico (RUL/Health)
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ3,Planejamento/Otimização
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ3,Diagnóstico/Causa-raiz
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ3,Prescrição/Recomendação
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ3,HITL/Confiança/Uncertainty
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ4,"Público, os conjuntos de dados utilizados são o NASA Turbofan Jet Engine (https://doi.org/10.21227/pjh5-p424), o MetroPT do Metro do Porto (https://doi.org/10.5281/zenodo.6854240) e o SCANIA Component X (https://arxiv.org/abs/2401.15199) ."
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ5,Séries temporais (sensores/telemetria)
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ5,Tabular (dados estruturados/atributos/features)
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ6,Não mencionado
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ7,RNN (LSTM/GRU)
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ7,Transformer/Attention
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ8,LIME
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ9,Locais
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ10,Regressão
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ10,Classificação
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ10,Métricas operacionais
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ11,Dados
+Building of transformer-based RUL predictors supported by explainability techniques: Application on real industrial datasets,RQ11,Modelagem
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ1,Manufatura (geral)
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ2,Manutenção Prescritiva / Preditiva
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ2,RUL/Prognóstico
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ2,Detecção de Anomalias/Falhas
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ3,Prescrição/Recomendação
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ3,Planejamento/Otimização
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ4,Público
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ4,Privados/proprietários
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ5,Séries temporais (sensores/telemetria)
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ5,Tabular (dados estruturados/atributos/features)
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ5,Imagens (visão computacional)
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ6,Cloud
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ7,RNN (LSTM/GRU)
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ7,Transformer/Attention
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ7,Autoencoder/VAE
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ8,SHAP
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ8,LIME
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ9,Locais
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ10,Classificação
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ10,Regressão
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ10,Métricas operacionais
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ11,Dados
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ11,Modelagem
+D2PdM:Data-Driven Predictive Maintenance - Comparative Evaluation of ML Algorithms in Industrial Automation,RQ11,Generalização/Transferência
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ1,Automotivo
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ2,Diagnóstico / Causa-raiz (FDD)
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ2,Manutenção Prescritiva / Preditiva
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ3,Diagnóstico/Causa-raiz
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ3,Prescrição/Recomendação
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ3,HITL/Confiança/Uncertainty
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ4,Simulados/gerados
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ4,"Privados/proprietários,"
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ5,Multimodal (fusão de modalidades)
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ6,Híbrido (Edge
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ6,Cloud)
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ7,RNN (LSTM/GRU)
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ7,Transformer/Attention
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ8,LIME
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ8,SHAP
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ8,Atenção/Attention (pesos/heatmaps)
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ9,Ambos
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ10,Classificação
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ10,Latência/Tempo/Computação
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ10,Avaliação XAI quantitativa
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ10,Avaliação humana
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ11,Dados
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ11,Generalização/Transferência
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ11,Implantação & Tempo real
+Development and Validation of an Explainable Hybrid Deep Learning Model for Multiple-Fault Diagnosis in Intelligent Automotive Electronic Systems,RQ11,Modelagem
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ1,Indústria 4.0 (Genérico/Transversal)
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ2,Manutenção Prescritiva / Preditiva
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ2,Detecção de Anomalias/Falhas
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ2,Diagnóstico / Causa-raiz (FDD)
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ3,Alerta/Detecção
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ3,Diagnóstico/Causa-raiz
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ3,Planejamento/Otimização
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ3,HITL/Confiança/Uncertainty
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ4,Privados/proprietários
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ5,Séries temporais (sensores/telemetria)
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ6,Edge
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ7,RNN (LSTM/GRU)
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ7,MLP/ANN (feedforward)
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ8,SHAP
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ8,LIME
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ9,Locais
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ10,Classificação
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ10,Detecção de anomalias/FDD
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ10,Latência/Tempo/Computação
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ11,Infraestrutura & Integração
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ11,Generalização/Transferência
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ11,Interpretabilidade/XAI
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ11,Implantação & Tempo real
+DIGITAL TWIN–BASED INTELLIGENT MONITORING OF INDUSTRIAL SYSTEMS USING EXPLAINABLE AI,RQ11,Privacidade/Confidencialidade/Regulação
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ1,Data Centers
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ2,Manutenção Prescritiva / Preditiva
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ2,RUL/Prognóstico
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ3,Diagnóstico/Causa-raiz
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ3,Prescrição/Recomendação
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ4,"Público, link: https://www.backblaze.com/b2/hard-drive-test-data.html"
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ5,Séries temporais (sensores/telemetria)
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ6,Não mencionado
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ7,RNN (LSTM/GRU)
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ8,SHAP
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ8,LIME
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ9,Ambos
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ10,Classificação
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ10,Avaliação XAI quantitativa
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ11,Interpretabilidade/XAI
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ11,Adoção humana/HITL
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ11,Dados
+Evaluating eXplainable artificial intelligence tools for hard disk drive predictive maintenance,RQ11,Generalização/Transferência
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ1,Manufatura (geral)
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ2,Controle de Qualidade (Defeitos)
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ2,Detecção de Anomalias/Falhas
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ2,Manutenção Prescritiva / Preditiva
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ3,Diagnóstico/Causa-raiz
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ3,Inspeção visual/Localização
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ3,HITL/Confiança/Uncertainty
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ3,Prescrição/Recomendação
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ4,"Público, o Casting Product Dataset disponível em https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product , o GC10-DET (Defects Class and Location) disponível em https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location , e o MIMII Dataset disponível em https://zenodo.org/records/3384388."
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ5,Imagens (visão computacional)
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ6,Não mencionado
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ8,SHAP
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ9,Ambos
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ10,Classificação
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ11,Dados
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ11,Interpretabilidade/XAI
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ11,Adoção humana/HITL
+Explainable AI-Driven Quality and Condition Monitoring in Smart Manufacturing,RQ11,Modelagem
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ1,Manufatura (Maquinário Rotativo)
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ2,Detecção de Anomalias/Falhas
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ2,RUL/Prognóstico
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ2,Manutenção Prescritiva / Preditiva
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ3,Alerta/Detecção
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ3,Prognóstico (RUL/Health)
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ3,Diagnóstico/Cause-raiz
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ3,Planejamento/Otimização
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ4,"Público, conjuntos de dados de rolamentos IMS (Intelligent Maintenance Systems) e XJTU-SY."
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ6,Não mencionado
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ7,Autoencoder/VAE
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ8,Interpretabilidade Intrínseca (white-box/simbólica)
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ9,Globais
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ10,Detecção de anomalias/FDD
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ11,Adoção humana/HITL
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ11,Infraestrutura & Integração
+Explainable and interpretable bearing fault classification and diagnosis under limited data,RQ11,Implantação & Tempo real
+Explainable anomaly detection for Hot-rolling industrial process*,RQ1,Siderúrgico/Metalurgia
+Explainable anomaly detection for Hot-rolling industrial process*,RQ2,Detecção de Anomalias/Falhas
+Explainable anomaly detection for Hot-rolling industrial process*,RQ2,Manutenção Prescritiva / Preditiva
+Explainable anomaly detection for Hot-rolling industrial process*,RQ3,Alerta/Detecção
+Explainable anomaly detection for Hot-rolling industrial process*,RQ3,Diagnóstico/Causa-raiz
+Explainable anomaly detection for Hot-rolling industrial process*,RQ3,Prescrição/Recomendação
+Explainable anomaly detection for Hot-rolling industrial process*,RQ3,Planejamento/Otimização
+Explainable anomaly detection for Hot-rolling industrial process*,RQ4,Simulados/gerados
+Explainable anomaly detection for Hot-rolling industrial process*,RQ4,Privados/proprietários
+Explainable anomaly detection for Hot-rolling industrial process*,RQ5,Séries temporais (sensores/telemetria)
+Explainable anomaly detection for Hot-rolling industrial process*,RQ5,Tabular (dados estruturados/atributos/features)
+Explainable anomaly detection for Hot-rolling industrial process*,RQ6,Não mencionado
+Explainable anomaly detection for Hot-rolling industrial process*,RQ7,Autoencoder/VAE
+Explainable anomaly detection for Hot-rolling industrial process*,RQ7,RNN (LSTM/GRU)
+Explainable anomaly detection for Hot-rolling industrial process*,RQ8,SHAP
+Explainable anomaly detection for Hot-rolling industrial process*,RQ9,Ambos
+Explainable anomaly detection for Hot-rolling industrial process*,RQ10,Regressão
+Explainable anomaly detection for Hot-rolling industrial process*,RQ10,Classificação
+Explainable anomaly detection for Hot-rolling industrial process*,RQ10,Avaliação humana
+Explainable anomaly detection for Hot-rolling industrial process*,RQ11,Dados
+Explainable anomaly detection for Hot-rolling industrial process*,RQ11,Modelagem
+Explainable anomaly detection for Hot-rolling industrial process*,RQ11,Adoção humana/HITL
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ1,Manufatura (Maquinário Rotativo)
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ2,Manutenção Prescritiva / Preditiva
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ2,Diagnóstico / Causa-raiz (FDD)
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ2,Detecção de Anomalias/Falhas
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ3,Diagnóstico/Causa-raiz
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ3,HITL/Confiança/Uncertainty
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ4,"Público, link: https://doi.org/10.5281/zenodo.16842422."
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ5,Tabular (dados estruturados/atributos/features)
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ6,Edge
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ7,MLP/ANN (feedforward)
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ8,SHAP
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ9,Ambos
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ10,Classificação
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ11,Generalização/Transferência
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ11,Dados
+Explainable Deep Learning for Bearing Fault Diagnosis: Architectural Superiority of ResNet-1D Validated by SHAP,RQ11,Implantação & Tempo real
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ1,Manufatura (geral)
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ2,Manutenção Prescritiva / Preditiva
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ3,Prescrição/Recomendação
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ3,HITL/Confiança/Uncertainty
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ4,Simulados/gerados
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ5,Tabular (dados estruturados/atributos/features)
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ6,Não mencionado
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ7,Reinforcement Learning (DRL/RL)
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ7,MLP/ANN (feedforward)
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ8,SHAP
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ9,Ambos
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ10,Reinforcement Learning (DRL/RL)
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ11,Interpretabilidade/XAI
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ11,Adoção humana/HITL
+Explainable Deep Reinforcement Learning Enhancing Industrial Maintenance,RQ11,Generalização/Transferência
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ1,Farmacêutico
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ2,Diagnóstico / Causa-raiz (FDD)
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ2,Detecção de Anomalias/Falhas
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ3,Alerta/Detecção
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ3,Diagnóstico/Causa-raiz
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ3,Inspeção visual/Localização
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ4,Simulados/gerados
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ4,Privados/proprietários
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ5,Séries temporais (sensores/telemetria)
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ6,Não mencionado
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ7,Autoencoder/VAE
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ8,SHAP
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ9,Locais
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ10,Detecção de anomalias/FDD
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ11,Dados
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ11,Adoção humana/HITL
+Fault Detection and Diagnosis using AutoEncoders and Interpretable AI - Case Study on an Industrial Chiller,RQ11,Interpretabilidade/XAI
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ1,Água/Saneamento
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ2,Segurança Ciberfísica (CPS)
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ2,Detecção de Anomalias/Falhas
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ3,Alerta/Detecção
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ3,Diagnóstico/Causa-raiz
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ3,Planejamento/Otimização
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ4,"Público, conjuntos de dados SWaT.A1 e SWaT.A6, link: https://github.com/pooyasa/pre-trained-trasformer-fd"
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ5,Séries temporais (sensores/telemetria)
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ6,Não mencionado
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ7,Transformer/Attention
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ8,SHAP
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ9,Ambos
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ10,Classificação
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ11,Dados
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ11,Generalização/Transferência
+Fault Detection of Cyber-Physical Systems Using a Transfer Learning Method Based on Pre-Trained Transformers,RQ11,Modelagem
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ1,Aeroespacial
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ2,RUL/Prognóstico
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ3,Prognóstico (RUL/Health)
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ3,Diagnóstico/Causa-raiz
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ3,Prescrição/Recomendação
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ3,Planejamento/Otimização
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ4,Privados/proprietários
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ5,Séries temporais (sensores/telemetria)
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ5,Tabular (dados estruturados/atributos/features)
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ6,Não mencionado
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ7,Transformer/Attention
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ8,SHAP
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ9,Ambos
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ10,Regressão
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ10,Latência/Tempo/Computação
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ10,Classificação
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ11,Privacidade/Confidencialidade/Regulação
+Federated learning with prototype learning for RUL prediction of engine turbine blade,RQ11,Modelagem
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ1,Manufatura (geral)
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ2,Detecção de Anomalias/Falhas
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ2,Manutenção Prescritiva / Preditiva
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ3,Alerta/Detecção
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ3,Diagnóstico/Causa-raiz
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ3,HITL/Confiança/Uncertainty
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ4,Privados/proprietários
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ5,Séries temporais (sensores/telemetria)
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ5,Tabular (dados estruturados/atributos/features)
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ6,Cloud
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ7,Autoencoder/VAE
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ7,Transformer/Attention
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ8,SHAP
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ9,Locais
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ10,Detecção de anomalias/FDD
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ10,Classificação
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ10,Regressão
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ11,Dados
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ11,Modelagem
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ11,Implantação & Tempo real
+GenAD-SM: optimized transformer-VAE model for precision anomaly detection for smart manufacturing in industry 5.0,RQ11,Adoção humana/HITL
+Hybrid Condition Monitoring for IIoT Applications,RQ1,Manufatura (Maquinário Rotativo)
+Hybrid Condition Monitoring for IIoT Applications,RQ2,Detecção de Anomalias/Falhas
+Hybrid Condition Monitoring for IIoT Applications,RQ2,Manutenção Prescritiva / Preditiva
+Hybrid Condition Monitoring for IIoT Applications,RQ3,Diagnóstico/Causa-raiz
+Hybrid Condition Monitoring for IIoT Applications,RQ3,Planejamento/Otimização
+Hybrid Condition Monitoring for IIoT Applications,RQ4,"Público, Dataset IDMT-ISA-ELECTRIC-ENGINE para monitoramento acústico de motores elétricos, link: https://github.com/marckonick/Hybrid%20CM%20for%20IIoT%20Applications ."
+Hybrid Condition Monitoring for IIoT Applications,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Hybrid Condition Monitoring for IIoT Applications,RQ6,Edge
+Hybrid Condition Monitoring for IIoT Applications,RQ7,MLP/ANN (feedforward)
+Hybrid Condition Monitoring for IIoT Applications,RQ8,SHAP
+Hybrid Condition Monitoring for IIoT Applications,RQ9,Ambos
+Hybrid Condition Monitoring for IIoT Applications,RQ10,Classificação
+Hybrid Condition Monitoring for IIoT Applications,RQ10,Latência/Tempo/Computação
+Hybrid Condition Monitoring for IIoT Applications,RQ11,Implantação & Tempo real
+Hybrid Condition Monitoring for IIoT Applications,RQ11,Infraestrutura & Integração
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ1,Manufatura (geral)
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ2,Manutenção Prescritiva / Preditiva
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ2,Detecção de Anomalias/Falhas
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ3,Inspeção visual/Localização
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ3,Diagnóstico/Causa-raiz
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ3,Prescrição/Recomendação
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ3,Planejamento/Otimização
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ4,"Público, Dados reais de testbed (Festo conveyor system) e dataset público “NASA Bearing Dataset” (IMS), link: https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset ."
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ5,Séries temporais (sensores/telemetria)
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ6,Edge
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ7,Autoencoder/VAE
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ7,RNN (LSTM/GRU)
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ8,SHAP
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ8,LIME
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ9,Ambos
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ10,Detecção de anomalias/FDD
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ10,Classificação
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ10,Latência/Tempo/Computação
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ11,Implantação & Tempo real
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ11,Infraestrutura & Integração
+Intelligent Bearing System Health Monitoring for Smart Manufacturing Conveyors,RQ11,Interpretabilidade/XAI
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ1,Siderúrgico/Metalurgia
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ2,Diagnóstico / Causa-raiz (FDD)
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ2,Controle de Qualidade (Defeitos)
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ3,Diagnóstico/Causa-raiz
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ3,Prescrição/Recomendação
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ4,Privados/proprietários
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ5,Séries temporais (sensores/telemetria)
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ5,Tabular (dados estruturados/atributos/features
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ6,Não mencionado
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ7,GNN (Graph NN)
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ7,RNN (LSTM/GRU)
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ7,Transformer/Attention
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ8,Causal/Granger/DAG/PC (inferência causal)
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ9,Globais
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ10,Classificação
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ10,Detecção de anomalias/FDD
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ10,Latência/Tempo/Computação
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ11,Modelagem
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ11,Dados
+Intelligent diagnosis of hot-rolled strip steel convexity faults based on hierarchical attention cycle graph networks and causal inference,RQ11,Interpretabilidade/XAI
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ1,Manufatura (Maquinário Rotativo)
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ2,Detecção de Anomalias/Falhas
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ2,Manutenção Prescritiva / Preditiva
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ3,Diagnóstico/Causa-raiz
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ3,Prescrição/Recomendação
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ3,HITL/Confiança/Uncertainty
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ4,"Público, (“publicly available industrial vibration datasets”)"
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ6,Não mencionado
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ7,Transformer/Attention
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ8,SHAP
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ9,Ambos
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ10,Classificação
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ10,Avaliação XAI quantitativa
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ10,Latência/Tempo/Computação
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ11,Implantação & Tempo real
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ11,Generalização/Transferência
+INTERPRETABLE TRANSFORMER-BASED VIBRATION ANALYSIS FOR ANOMALY DETECTION IN INDUSTRIAL SYSTEMS,RQ11,Interpretabilidade/XAI
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ1,Manufatura (usinagem)
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ2,RUL/Prognóstico
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ2,Otimização / Controle de Processo
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ2,Manutenção Prescritiva / Preditiva
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ3,Diagnóstico/Causa-raiz
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ3,Prescrição/Recomendação
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ3,Planejamento/Otimização
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ4,"Público, link: https://www.kaggle.com/datasets/drganeshkumars/flank-wear-of-cnc-lathe-tool-insert-dataset e https://github.com/567ZYC/Data-Processing-and-Explanation-for-Flank-Wear-of-CNC-Lathe-Tool-Insert-Dataset- ."
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ5,Tabular (dados estruturados/atributos/features)
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ6,Não mencionado
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ7,MLP/ANN (feedforward)
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ8,Interpretabilidade Intrínseca (white-box/simbólica)
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ9,Globais
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ10,Regressão
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ10,Latência/Tempo/Computação
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ11,Modelagem
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ11,Generalização/Transferência
+KAN-Based Tool Wear Modeling with Adaptive Complexity and Symbolic Interpretability in CNC Turning Processes,RQ11,Interpretabilidade/XAI
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ1,Multi-setor
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ2,Diagnóstico / Causa-raiz (FDD)
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ2,Manutenção Prescritiva / Preditiva
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ3,Prescrição/Recomendação
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ3,Diagnóstico/Causa-raiz
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ4,"Público, dataset interno DDS (Drivetrain Dynamics Simulator), o dataset SpectraSimulator da base OEDI e o dataset de engrenagens da University of Connecticut - UoC, link: https://data.openei.org/submissions/623 e https://figshare.com/articles/dataset/Gear_Fault_Data/6127874"
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ5,Séries temporais (sensores/telemetria)
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ6,Não mencionado
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ7,RNN (LSTM/GRU)
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ7,"Neuro-simbólico / Regras (LTN, etc.)"
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ7,Transformer/Attention
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ8,Importância por Permutação
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ8,Contrafactual
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ9,Ambos
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ10,Classificação
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ10,Avaliação XAI quantitativa
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ10,Latência/Tempo/Computação
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ11,Interpretabilidade/XAI
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ11,Infraestrutura & Integração
+LogicLSTM: Logically-driven long short-term memory model for fault diagnosis in gearboxes,RQ11,Modelagem
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ1,Aeroespacial
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ2,Manutenção Prescritiva / Preditiva
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ2,RUL/Prognóstico
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ3,Prognóstico (RUL/Health)
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ3,Diagnóstico/Causa-raiz
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ3,HITL/Confiança/Uncertainty
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ4,"Público, C-MAPSS e N-CMAPSS para RUL de motores aeronáuticos."
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ5,Séries temporais (sensores/telemetria)
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ6,Não mencionado
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ7,GNN (Graph NN)
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ7,Transformer/Attention
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ8,Atenção/Attention (pesos/heatmaps)
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ8,Interpretabilidade Intrínseca (white-box/simbólica)
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ9,Ambos
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ10,Regressão
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ11,Dados
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ11,Modelagem
+MSEvoNet: Multiscale Spatiotemporal Evolution Networks for Remaining Useful Life Prediction in Complex Industrial Systems,RQ11,Implantação & Tempo real
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ1,Aeroespacial
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ2,Detecção de Anomalias/Falhas
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ2,Diagnóstico / Causa-raiz (FDD)
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ2,Manutenção Prescritiva / Preditiva
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ3,Diagnóstico/Causa-raiz
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ3,HITL/Confiança/Uncertainty
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ4,Simulados/gerados
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ5,Imagens (visão computacional)
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ6,Não mencionado
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ8,Não mencionado
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ9,Globais
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ10,Classificação
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ10,Latência/Tempo/Computação
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ11,Interpretabilidade/XAI
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ11,Benchmarks/Padronização
+Perception modelling by invariant representation of deep learning for automated structural diagnostic in aircraft maintenance: A study case using DeepSHM,RQ11,Generalização/Transferência
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ1,Manufatura (usinagem)
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ2,RUL/Prognóstico
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ2,Manutenção Prescritiva / Preditiva
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ3,Prognóstico (RUL/Health)
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ3,Planejamento/Otimização
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ3,Prescrição/Recomendação
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ4,Público
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ4,"Privado/proprietário, PHM2010 e dataset “self-constructed” pelos autores"
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ5,Sinais (áudio/vibração/ultrassom – waveform)
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ6,Não mencionado
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ7,Transformer/Attention
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ8,SHAP
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ9,Ambos
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ10,Regressão
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ10,Latência/Tempo/Computação
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ10,Avaliação humana
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ11,Modelagem
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ11,Interpretabilidade/XAI
+Physics-based feature enhancement method and physics constraint Transformer model for multi-step tool wear and RUL prediction,RQ11,Generalização/Transferência
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ1,Indústria 4.0 (Genérico/Transversal)
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ2,Manutenção Prescritiva / Preditiva
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ2,Detecção de Anomalias/Falhas
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ3,Alerta/Detecção
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ3,Diagnóstico/Causa-raiz
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ3,Prescrição/Recomendação
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ3,Planejamento/Otimização
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ4,"Público, link: https://www.kaggle.com/code/atom1991/predictive-maintenance-for-industrial-devices/input."
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ5,Tabular (dados estruturados/atributos/features)
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ6,Federated/Distribuído
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ8,SHAP
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ8,LIME
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ9,Ambos
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ10,Classificação
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ11,Privacidade/Confidencialidade/Regulação
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ11,Interpretabilidade/XAI
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ11,Generalização/Transferência
+Privacy-Preserving Interpretability: An Explainable Federated Learning Model for Predictive Maintenance in Sustainable Manufacturing and Industry 4.0,RQ11,Implantação & Tempo real
+Scalable Concept Extraction in Industry 4.0,RQ1,Multi-setor
+Scalable Concept Extraction in Industry 4.0,RQ2,Controle de Qualidade (Defeitos)
+Scalable Concept Extraction in Industry 4.0,RQ2,Detecção de Anomalias/Falhas
+Scalable Concept Extraction in Industry 4.0,RQ2,Manutenção Prescritiva / Preditiva
+Scalable Concept Extraction in Industry 4.0,RQ3,Inspeção visual/Localização
+Scalable Concept Extraction in Industry 4.0,RQ3,HITL/Confiança/Uncertainty
+Scalable Concept Extraction in Industry 4.0,RQ4,Público
+Scalable Concept Extraction in Industry 4.0,RQ4,"simulados, link: https://doi.org/10.5281/zenodo.7970596 e https://doi.org/10.5281/zenodo.7970490"
+Scalable Concept Extraction in Industry 4.0,RQ5,Imagens (visão computacional)
+Scalable Concept Extraction in Industry 4.0,RQ6,Não mencionado
+Scalable Concept Extraction in Industry 4.0,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Scalable Concept Extraction in Industry 4.0,RQ8,Concept-based (TCAV/ECLAD/SPACE)
+Scalable Concept Extraction in Industry 4.0,RQ9,Globais
+Scalable Concept Extraction in Industry 4.0,RQ10,Classificação
+Scalable Concept Extraction in Industry 4.0,RQ10,Avaliação XAI quantitativa
+Scalable Concept Extraction in Industry 4.0,RQ11,Interpretabilidade/XAI
+Scalable Concept Extraction in Industry 4.0,RQ11,Modelagem
+Scalable Concept Extraction in Industry 4.0,RQ11,Implantação & Tempo real
+Scale‑preserving automatic concept extraction (SPACE),RQ1,Multi-setor
+Scale‑preserving automatic concept extraction (SPACE),RQ2,Controle de Qualidade (Defeitos)
+Scale‑preserving automatic concept extraction (SPACE),RQ2,Detecção de Anomalias/Falhas
+Scale‑preserving automatic concept extraction (SPACE),RQ3,Diagnóstico/Causa-raiz
+Scale‑preserving automatic concept extraction (SPACE),RQ3,HITL/Confiança/Uncertainty
+Scale‑preserving automatic concept extraction (SPACE),RQ3,Planejamento/Otimização
+Scale‑preserving automatic concept extraction (SPACE),RQ4,"Público, link: https://github.com/Data-Science-in-Mechanical-Engineering/SPACE"
+Scale‑preserving automatic concept extraction (SPACE),RQ5,Imagens (visão computacional)
+Scale‑preserving automatic concept extraction (SPACE),RQ6,Não mencionado
+Scale‑preserving automatic concept extraction (SPACE),RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Scale‑preserving automatic concept extraction (SPACE),RQ8,Concept-based (TCAV/ECLAD/SPACE)
+Scale‑preserving automatic concept extraction (SPACE),RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+Scale‑preserving automatic concept extraction (SPACE),RQ9,Globais
+Scale‑preserving automatic concept extraction (SPACE),RQ10,Classificação
+Scale‑preserving automatic concept extraction (SPACE),RQ10,Avaliação XAI quantitativa
+Scale‑preserving automatic concept extraction (SPACE),RQ11,Interpretabilidade/XAI
+Scale‑preserving automatic concept extraction (SPACE),RQ11,Modelagem
+Scale‑preserving automatic concept extraction (SPACE),RQ11,Dados
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ1,Multi-setor
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ2,Diagnóstico / Causa-raiz (FDD)
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ2,RUL/Prognóstico
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ3,Diagnóstico/Causa-raiz
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ3,Planejamento/Otimização
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ4,Público
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ4,"Privados/proprietários, link: https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository ."
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ5,Imagens (visão computacional)
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ5,Séries temporais (sensores/telemetria)
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ6,Não mencionado
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ7,Autoencoder/VAE
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ7,MLP/ANN (feedforward)
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ8,SHAP
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ9,Ambos
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ10,Classificação
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ10,Regressão
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ10,Detecção de anomalias/FDD
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ11,Dados
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ11,Modelagem
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ11,Interpretabilidade/XAI
+Shapley-based Explainable AI for Clustering Applications in Fault Diagnosis and Prognosis,RQ11,Implantação & Tempo real
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ1,Siderúrgico/Metalurgia
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ2,Controle de Qualidade (Defeitos)
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ3,Diagnóstico/Causa-raiz
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ3,Planejamento/Otimização
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ4,"Público, link: http://archive.ics.uci.edu/ml/index.php ."
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ5,Tabular (dados estruturados/atributos/features)
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ6,Não mencionado
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ7,MLP/ANN (feedforward)
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ7,Transformer/Attention
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ8,Atenção/Attention (pesos/heatmaps)
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ9,Ambos
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ10,Classificação
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ11,Interpretabilidade/XAI
+Steel Plates Fault Detection with Explainable Inter-Attribute Attention Network,RQ11,Dados
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ1,Siderúrgico/Metalurgia
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ2,RUL/Prognóstico
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ3,Diagnóstico/Causa-raiz
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ3,Prescrição/Recomendação
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ3,HITL/Confiança/Uncertainty
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ4,Privados/proprietários
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ5,Tabular (dados estruturados/atributos/features)
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ6,Não mencionado
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ7,RNN (LSTM/GRU)
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ7,Transformer/Attention
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ8,LRP
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ9,Locais
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ10,Regressão
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ10,Avaliação XAI quantitativa
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ11,Interpretabilidade/XAI
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ11,Adoção humana/HITL
+Through the Lens of Explainability: Enhancing Trust in Remaining Useful Life Prognosis Models,RQ11,Privacidade/Confidencialidade/Regulação
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ1,Manufatura (geral)
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ2,Controle de Qualidade (Defeitos)
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ3,HITL/Confiança/Uncertainty
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ3,Inspeção visual/Localização
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ4,Privados/proprietários
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ5,Imagens (visão computacional)
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ5,Séries temporais (sensores/telemetria)
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ6,Não mencionado
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ7,MLP/ANN (feedforward)
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ8,Saliency/Grad-CAM/IG/Occlusion (visão)
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ9,Locais
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ10,Não mencionado
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ11,Dados
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ11,Adoção humana/HITL
+Towards a Comprehensive Visual Quality Inspection for Industry 4.0.,RQ11,Generalização/Transferência
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ1,Manufatura (usinagem)
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ2,Controle de Qualidade (Defeitos)
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ3,Planejamento/Otimização
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ3,Prescrição/Recomendação
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ3,Alerta/Detecção
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ4,Revisão sistemática
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ5,Multimodal (fusão de modalidades)
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ6,Não mencionado
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ7,Não mencionado
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ8,SHAP
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ9,Ambos
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ10,Regressão
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ10,Classificação
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ11,Benchmarks/Padronização
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ11,Interpretabilidade/XAI
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ11,Infraestrutura & Integração
+Towards AI driven surface roughness evaluation in manufacturing: a prospective study,RQ11,Dados
+Towards big industrial data mining through explainable automated machine learning,RQ1,Manufatura (geral)
+Towards big industrial data mining through explainable automated machine learning,RQ2,Controle de Qualidade (Defeitos)
+Towards big industrial data mining through explainable automated machine learning,RQ2,Manutenção Prescritiva / Preditiva
+Towards big industrial data mining through explainable automated machine learning,RQ3,Planejamento/Otimização
+Towards big industrial data mining through explainable automated machine learning,RQ3,Diagnóstico/Causa-raiz
+Towards big industrial data mining through explainable automated machine learning,RQ3,HITL/Confiança/Uncertainty
+Towards big industrial data mining through explainable automated machine learning,RQ4,Público
+Towards big industrial data mining through explainable automated machine learning,RQ5,Tabular (dados estruturados/atributos/features)
+Towards big industrial data mining through explainable automated machine learning,RQ6,Não mencionado
+Towards big industrial data mining through explainable automated machine learning,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+Towards big industrial data mining through explainable automated machine learning,RQ8,XAI framework (AMLExplainer/Tool)
+Towards big industrial data mining through explainable automated machine learning,RQ9,Ambos
+Towards big industrial data mining through explainable automated machine learning,RQ10,Classificação
+Towards big industrial data mining through explainable automated machine learning,RQ10,Latência/Tempo/Computação
+Towards big industrial data mining through explainable automated machine learning,RQ10,Avaliação humana
+Towards big industrial data mining through explainable automated machine learning,RQ11,Adoção humana/HITL
+Towards big industrial data mining through explainable automated machine learning,RQ11,Interpretabilidade/XAI
+Towards big industrial data mining through explainable automated machine learning,RQ11,Implantação & Tempo real
+Towards big industrial data mining through explainable automated machine learning,RQ11,Infraestrutura & Integração
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ1,Automotivo
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ2,Robótica / Planejamento
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ2,Controle de Qualidade (Defeitos)
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ3,Planejamento/Otimização
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ4,Privados/proprietários
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ5,Imagens (visão computacional)
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ6,Não mencionado
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ8,Não mencionado
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ9,Não mencionado
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ10,Classificação
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ10,Regressão
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ11,Robótica/Logística
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ11,Modelagem
+Towards region-based robotic machining system from perspective of intelligent manufacturing: A technology framework with case study,RQ11,Dados
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ1,Químico/Processos
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ2,Otimização / Controle de Processo
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ2,Manutenção Prescritiva / Preditiva
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ2,Diagnóstico / Causa-raiz (FDD)
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ2,Detecção de Anomalias/Falhas
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ3,Prescrição/Recomendação
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ3,Planejamento/Otimização
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ3,Alerta/Detecção
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ3,Diagnóstico/Causa-raiz
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ4,Revisão sistemática
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ5,Multimodal (fusão de modalidades)
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ6,Não mencionado
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ7,Não mencionado
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ8,SHAP
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ8,LIME
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ9,Ambos
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ10,Regressão
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ10,Classificação
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ10,Métricas operacionais
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ11,Dados
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ11,Interpretabilidade/XAI
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ11,Implantação & Tempo real
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ11,Infraestrutura & Integração
+Transforming chemical process engineering The role of AI and machine learning in revolutionizing process systems,RQ11,Privacidade/Confidencialidade/Regulação
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ1,Automotivo
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ2,Manutenção Prescritiva / Preditiva
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ2,Detecção de Anomalias/Falhas
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ3,Diagnóstico/Causa-raiz
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ3,HITL/Confiança/Uncertainty
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ4,Privados/proprietários
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ5,Séries temporais (sensores/telemetria)
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ6,Não mencionado
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)"
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ8,SHAP
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ9,Ambos
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ10,Detecção de anomalias/FDD
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ11,Interpretabilidade/XAI
+TwinExplainer Explaining Predictions of an Automotive Digital Twin,RQ11,Adoção humana/HITL
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ1,Plásticos
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ2,Manutenção Prescritiva / Preditiva
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ2,Diagnóstico / Causa-raiz (FDD)
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ2,Detecção de Anomalias/Falhas
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ3,Diagnóstico/Causa-raiz
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ3,Prescrição/Recomendação
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ3,Planejamento/Otimização
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ4,Privados/proprietários
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ5,Séries temporais (sensores/telemetria)
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ6,Não mencionado
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ8,SHAP
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ9,Ambos
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ10,Não mencionado
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ11,Dados
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ11,Modelagem
+Using an Explainable Machine Learning Approach to Minimize Opportunistic Maintenance Interventions,RQ11,Generalização/Transferência
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ1,Aeroespacial
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ2,Forecasting (Demanda / Soft Sensing)
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ2,Diagnóstico / Causa-raiz (FDD)
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ2,Manutenção Prescritiva / Preditiva
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ3,Planejamento/Otimização
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ3,Diagnóstico/Causa-raiz
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ3,HITL/Confiança/Uncertainty
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ4,Privados/proprietários
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ5,Texto (logs/texto livre)
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ6,Não mencionado
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ7,Transformer/Attention
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ8,LIME
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ9,Ambos
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ10,Classificação
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ10,Detecção de anomalias/FDD
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ11,Dados
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ11,Infraestrutura & Integração
+Using Deep Learning to Value Free-Form Text Data for Predictive Maintenance,RQ11,Adoção humana/HITL
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ1,Manufatura (geral)
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ2,Controle de Qualidade (Defeitos)
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ2,Detecção de Anomalias/Falhas
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ3,Diagnóstico/Causa-raiz
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ3,HITL/Confiança/Uncertainty
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ4,Privados/proprietários
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ5,Séries temporais (sensores/telemetria)
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ6,Edge
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ8,Knowledge Graph/Ontologia/Regras
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ9,Locais
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ10,Classificação
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ10,Latência/Tempo/Computação
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ10,Avaliação humana
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ11,Adoção humana/HITL
+Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ11,Interpretabilidade/XAI
+XAI Sustainable Human in the Loop Maintenance,RQ1,Automotivo
+XAI Sustainable Human in the Loop Maintenance,RQ2,Manutenção
+XAI Sustainable Human in the Loop Maintenance,RQ2,EoL Sustentável
+XAI Sustainable Human in the Loop Maintenance,RQ3,Prescrição/Recomendação
+XAI Sustainable Human in the Loop Maintenance,RQ3,HITL/Confiança/Uncertainty
+XAI Sustainable Human in the Loop Maintenance,RQ3,Planejamento/Otimização
+XAI Sustainable Human in the Loop Maintenance,RQ4,Não mencionado
+XAI Sustainable Human in the Loop Maintenance,RQ5,Multimodal (fusão de modalidades)
+XAI Sustainable Human in the Loop Maintenance,RQ6,Não mencionado
+XAI Sustainable Human in the Loop Maintenance,RQ7,Não mencionado
+XAI Sustainable Human in the Loop Maintenance,RQ8,Knowledge Graph/Ontologia/Regras
+XAI Sustainable Human in the Loop Maintenance,RQ9,Locais
+XAI Sustainable Human in the Loop Maintenance,RQ10,Não mencionado
+XAI Sustainable Human in the Loop Maintenance,RQ11,Adoção humana/HITL
+XAI Sustainable Human in the Loop Maintenance,RQ11,Interpretabilidade/XAI
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ1,Manufatura (geral)
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ2,Forecasting (Demanda / Soft Sensing)
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ3,Planejamento/Otimização
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ3,Diagnóstico/Causa-raiz
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ3,HITL/Confiança/Uncertainty
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ4,Simulados/gerados
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ4,"Privados/proprietários,"
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ5,Forecasting (Demanda / Soft Sensing)
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ5,Tabular (dados estruturados/atributos/features)
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ6,Não mencionado
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ7,Não mencionado
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ8,LIME
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ9,Locais
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ10,Grafo/KG (nós/paths/TPL/MPL/APL)
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ11,Adoção humana/HITL
+XAI-KG: knowledge graph to support XAI and decision-making in manufacturing.,RQ11,Interpretabilidade/XAI
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ1,Químico/Processos
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ2,Diagnóstico / Causa-raiz (FDD)
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ2,Manutenção Prescritiva / Preditiva
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ3,Diagnóstico/Causa-raiz
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ3,Prescrição/Recomendação
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ3,HITL/Confiança/Uncertainty
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ4,Público
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ4,"Simulado, dataset de benchmark Tennessee Eastman Process (TEP)"
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ5,Séries temporais (sensores/telemetria)
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ5,Tabular (dados estruturados/atributos/features)
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ6,Não mencionado
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)"
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ8,SHAP
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ9,Ambos
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ10,Detecção de anomalias/FDD
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ10,Classificação
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ11,Privacidade/Confidencialidade/Regulação
+XFDDC: eXplainable Fault Detection Diagnosis and Correction framework for chemical process systems,RQ11,Modelagem

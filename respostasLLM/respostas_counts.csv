@@ -1,0 +1,136 @@
+RQ,Categoria,Contagem
+RQ1,Manufatura (geral),19
+RQ1,Multi-setor,6
+RQ1,Químico/Processos,5
+RQ1,Siderúrgico/Metalurgia,5
+RQ1,Manufatura (Maquinário Rotativo),4
+RQ1,Automotivo,4
+RQ1,Aeroespacial,4
+RQ1,Manufatura (usinagem),4
+RQ1,Data Centers,2
+RQ1,Indústria 4.0 (Genérico/Transversal),2
+RQ1,Plásticos,2
+RQ1,Alimentos/Bebidas,2
+RQ1,Água/Saneamento,2
+RQ1,Semicondutores,1
+RQ1,Papel/Celulose,1
+RQ1,Logística/E-commerce,1
+RQ1,Farmacêutico,1
+RQ10,Classificação,48
+RQ10,Regressão,22
+RQ10,Latência/Tempo/Computação,22
+RQ10,Detecção de anomalias/FDD,13
+RQ10,Avaliação XAI quantitativa,10
+RQ10,Avaliação humana,8
+RQ10,Métricas operacionais,4
+RQ10,Não mencionado,3
+RQ10,Robótica/Logística,1
+RQ10,Reinforcement Learning (DRL/RL),1
+RQ10,Grafo/KG (nós/paths/TPL/MPL/APL),1
+RQ11,Dados,37
+RQ11,Modelagem,34
+RQ11,Interpretabilidade/XAI,32
+RQ11,Generalização/Transferência,28
+RQ11,Implantação & Tempo real,20
+RQ11,Adoção humana/HITL,18
+RQ11,Infraestrutura & Integração,13
+RQ11,Privacidade/Confidencialidade/Regulação,7
+RQ11,Benchmarks/Padronização,3
+RQ11,Robótica/Logística,2
+RQ11,Avaliação humana/HITL,1
+RQ11,Cibersegurança,1
+RQ2,Manutenção Prescritiva / Preditiva,38
+RQ2,Detecção de Anomalias/Falhas,38
+RQ2,Controle de Qualidade (Defeitos),19
+RQ2,Diagnóstico / Causa-raiz (FDD),16
+RQ2,RUL/Prognóstico,14
+RQ2,Otimização / Controle de Processo,5
+RQ2,Forecasting (Demanda / Soft Sensing),3
+RQ2,Robótica / Planejamento,2
+RQ2,Segurança Ciberfísica (CPS),1
+RQ2,Manutenção,1
+RQ2,EoL Sustentável,1
+RQ3,Diagnóstico/Causa-raiz,49
+RQ3,Planejamento/Otimização,33
+RQ3,Prescrição/Recomendação,30
+RQ3,HITL/Confiança/Uncertainty,28
+RQ3,Alerta/Detecção,24
+RQ3,Inspeção visual/Localização,10
+RQ3,Prognóstico (RUL/Health),8
+RQ3,Diagnóstico/Cause-raiz,1
+RQ4,Privados/proprietários,27
+RQ4,Público,9
+RQ4,Simulados/gerados,8
+RQ4,"Privados/proprietários,",2
+RQ4,Revisão sistemática,2
+RQ4,"Público, Backblaze dataset",1
+RQ4,Sem Dataset,1
+RQ4,Públicos (Benchmark UCI SECOM dataset). Link: https://archive.ics.uci.edu/dataset/179/secom.,1
+RQ4,"Privados/proprietários, link: www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository.",1
+RQ4,"Público, O artigo usa SKAB, SWaT, DAMADICS e MSL. Link: https://www.kaggle.com/dsv/1693952 e https://www.google.com/search?q=http://diag.mchtr.pw.edu.pl/damadics/.",1
+RQ4,"Privados/proprietários, link: https://ti.arc.nasa.gov/c/6/.",1
+RQ4,"Público, NEU-DET (aço), GC10 e conjuntos de imagens de raio-X de soldas.",1
+RQ4,"Público, link: https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product.",1
+RQ4,"Público, os conjuntos de dados utilizados são o NASA Turbofan Jet Engine (https://doi.org/10.21227/pjh5-p424), o MetroPT do Metro do Porto (https://doi.org/10.5281/zenodo.6854240) e o SCANIA Component X (https://arxiv.org/abs/2401.15199) .",1
+RQ4,"Público, link: https://www.backblaze.com/b2/hard-drive-test-data.html",1
+RQ4,"Público, o Casting Product Dataset disponível em https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product , o GC10-DET (Defects Class and Location) disponível em https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location , e o MIMII Dataset disponível em https://zenodo.org/records/3384388.",1
+RQ4,"Público, conjuntos de dados de rolamentos IMS (Intelligent Maintenance Systems) e XJTU-SY.",1
+RQ4,"Público, Pump subset do MIMII acoustic dataset.",1
+RQ4,"Público, link: https://doi.org/10.5281/zenodo.16842422.",1
+RQ4,"Público, conjuntos de dados SWaT.A1 e SWaT.A6, link: https://github.com/pooyasa/pre-trained-trasformer-fd",1
+RQ4,"Público, Dados reais de testbed (Festo conveyor system) e dataset público “NASA Bearing Dataset” (IMS), link: https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset .",1
+RQ4,"Público, Dataset IDMT-ISA-ELECTRIC-ENGINE para monitoramento acústico de motores elétricos, link: https://github.com/marckonick/Hybrid%20CM%20for%20IIoT%20Applications .",1
+RQ4,"Público, link: https://www.kaggle.com/datasets/drganeshkumars/flank-wear-of-cnc-lathe-tool-insert-dataset e https://github.com/567ZYC/Data-Processing-and-Explanation-for-Flank-Wear-of-CNC-Lathe-Tool-Insert-Dataset- .",1
+RQ4,"Público, dataset interno DDS (Drivetrain Dynamics Simulator), o dataset SpectraSimulator da base OEDI e o dataset de engrenagens da University of Connecticut - UoC, link: https://data.openei.org/submissions/623 e https://figshare.com/articles/dataset/Gear_Fault_Data/6127874",1
+RQ4,"Público, C-MAPSS e N-CMAPSS para RUL de motores aeronáuticos.",1
+RQ4,"Público, (“publicly available industrial vibration datasets”)",1
+RQ4,"Privado/proprietário, PHM2010 e dataset “self-constructed” pelos autores",1
+RQ4,"Público, link: https://www.kaggle.com/code/atom1991/predictive-maintenance-for-industrial-devices/input.",1
+RQ4,"Público, link: https://github.com/Data-Science-in-Mechanical-Engineering/SPACE",1
+RQ4,"simulados, link: https://doi.org/10.5281/zenodo.7970596 e https://doi.org/10.5281/zenodo.7970490",1
+RQ4,"Privados/proprietários, link: https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository .",1
+RQ4,"Público, link: http://archive.ics.uci.edu/ml/index.php .",1
+RQ4,Não mencionado,1
+RQ4,"Simulado, dataset de benchmark Tennessee Eastman Process (TEP)",1
+RQ5,Séries temporais (sensores/telemetria),33
+RQ5,Tabular (dados estruturados/atributos/features),21
+RQ5,Imagens (visão computacional),12
+RQ5,Sinais (áudio/vibração/ultrassom – waveform),9
+RQ5,Multimodal (fusão de modalidades),5
+RQ5,Texto (logs/texto livre),2
+RQ5,Tabular (dados estruturados/atributos/features,1
+RQ5,Forecasting (Demanda / Soft Sensing),1
+RQ6,Não mencionado,45
+RQ6,Cloud,7
+RQ6,Edge,7
+RQ6,Híbrido (Edge,4
+RQ6,Cloud),4
+RQ6,Federated/Distribuído,2
+RQ7,"CNN (Conv1D/2D, YOLO, Faster R-CNN, ResNet, DenseNet)",25
+RQ7,RNN (LSTM/GRU),20
+RQ7,Transformer/Attention,18
+RQ7,Autoencoder/VAE,14
+RQ7,MLP/ANN (feedforward),13
+RQ7,"Não DL / ML clássico (Ensembles, iForest, DrCIF, etc.)",7
+RQ7,Não mencionado,4
+RQ7,GNN (Graph NN),3
+RQ7,Não mencionado.,2
+RQ7,Reinforcement Learning (DRL/RL),2
+RQ7,"Neuro-simbólico / Regras (LTN, etc.)",1
+RQ8,SHAP,36
+RQ8,LIME,15
+RQ8,Saliency/Grad-CAM/IG/Occlusion (visão),8
+RQ8,Atenção/Attention (pesos/heatmaps),5
+RQ8,Não mencionado,5
+RQ8,Interpretabilidade Intrínseca (white-box/simbólica),3
+RQ8,LRP,2
+RQ8,Causal/Granger/DAG/PC (inferência causal),2
+RQ8,Contrafactual,2
+RQ8,Concept-based (TCAV/ECLAD/SPACE),2
+RQ8,Knowledge Graph/Ontologia/Regras,2
+RQ8,Importância por Permutação,1
+RQ8,XAI framework (AMLExplainer/Tool),1
+RQ9,Ambos,34
+RQ9,Locais,17
+RQ9,Globais,9
+RQ9,Não mencionado,5
