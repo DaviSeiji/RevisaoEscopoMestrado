@@ -70,7 +70,7 @@ A novel dynamic machine learning-based explainable fusion monitoring: applicatio
 A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ4,Simulados/gerados
 A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ5,Séries temporais (sensores/telemetria)
 A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ6,Não mencionado
-A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ7,Não mencionado.
+A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ7,Não mencionado
 A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ8,Causal/Granger/DAG/PC (inferência causal)
 A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ9,Não mencionado
 A novel dynamic machine learning-based explainable fusion monitoring: application to industrial and chemical processes.,RQ10,Detecção de anomalias/FDD
@@ -310,7 +310,7 @@ An Integrated Framework for Predictive Quality in Injection Molding: Combining E
 An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ4,Privados/proprietários
 An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ5,Tabular (dados estruturados/atributos/features)
 An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ6,Não mencionado
-An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ7,Não mencionado.
+An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ7,Não mencionado
 An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ8,SHAP
 An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ9,Ambos
 An Integrated Framework for Predictive Quality in Injection Molding: Combining Explainable AI and Time Series Analysis in a German Industry Case Study,RQ10,Regressão
@@ -1154,7 +1154,7 @@ Utilizing knowledge graphs for explainable artificial intelligence in manufactur
 Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ11,Adoção humana/HITL
 Utilizing knowledge graphs for explainable artificial intelligence in manufacturing,RQ11,Interpretabilidade/XAI
 XAI Sustainable Human in the Loop Maintenance,RQ1,Automotivo
-XAI Sustainable Human in the Loop Maintenance,RQ2,Manutenção
+XAI Sustainable Human in the Loop Maintenance,RQ2,Manutenção Prescritiva / Preditiva
 XAI Sustainable Human in the Loop Maintenance,RQ2,EoL Sustentável
 XAI Sustainable Human in the Loop Maintenance,RQ3,Prescrição/Recomendação
 XAI Sustainable Human in the Loop Maintenance,RQ3,HITL/Confiança/Uncertainty
